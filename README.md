@@ -2,7 +2,6 @@
 Authors: Cristian Palencia and Yiran Yin
 
 ## Overview
-
 This project explores various parallelization strategies to accelerate the Successive Over-Relaxation (SOR) method for solving a 2D Laplace equation on a grid. It includes implementations using:
 
 - **Pthreads** — explicit thread management on CPU,
